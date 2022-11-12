@@ -15,10 +15,9 @@
 
 [Pitch Deck (PDF)](/pdf/autum.pdf)
 <p float="left">
+  [Download on App Store](https://apps.apple.com/tc/app/autum/id1599884953)
   
-  [<img src="/images/download_apple.png" width="150" />](https://apps.apple.com/tc/app/autum/id1599884953)
-  
-  [<img src="/images/download_android.png" width="150" />](https://play.google.com/store/apps/details?id=com.autum.dating) 
+  [Download on Play Store](https://play.google.com/store/apps/details?id=com.autum.dating) 
 </p>
 <p float="left">
   <img src="/images/autum_deck.png" width="150" />
