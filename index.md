@@ -1,9 +1,8 @@
 ## Portfolio
 
 ---
-
-### Apps
 [Favely - Social Media Game](/sample_page)
+
 [Pitch Deck](/pdf/sample_presentation.pdf)
 <p float="left">
   <img src="/images/favely_landing.jpg" width="100" />
