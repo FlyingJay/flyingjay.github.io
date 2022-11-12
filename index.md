@@ -2,31 +2,26 @@
 
 ---
 
-### Category Name 1 
+### Apps
+[Favely - Social Media Game](/sample_page)
+[Pitch Deck](/pdf/sample_presentation.pdf)
+<p float="left">
+  <img src="/images/favely_landing.png" width="100" />
+  <img src="/images/favely_video.png" width="100" /> 
+  <img src="/images/favely_profile.png" width="100" />
+</p>
 
-[Project 1 Title](/sample_page)
+---
+[Autum - Dating App](/sample_page)
+[Pitch Deck](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[RedPine - Concert Venue Booking+++](/sample_page)
+[Pitch Deck](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
 
 
 
