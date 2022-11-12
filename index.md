@@ -1,5 +1,3 @@
-## My Projects
-
 ### Favely (2023)
 
 [Pitch Deck (PDF)](/pdf/favely.pdf)
