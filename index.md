@@ -19,10 +19,6 @@
 
 [GitHub - Django Server](https://github.com/FlyingJay/autum-api)
 
-[Download on App Store](https://apps.apple.com/tc/app/autum/id1599884953)
-  
-[Download on Play Store](https://play.google.com/store/apps/details?id=com.autum.dating) 
-
 <p float="left">
   <img src="/images/autum_deck.png" width="150" />
   <img src="/images/autum_match.png" width="150" /> 
