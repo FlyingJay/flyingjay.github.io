@@ -1,6 +1,6 @@
 ## My Projects
 
-### Favely - Social Media Game (2023)
+### Favely (2023)
 
 [Pitch Deck (PDF)](/pdf/favely.pdf)
 
@@ -13,7 +13,7 @@
 </p>
 
 ---
-### Autum - Dating (2022)
+### Autum Dating (2022)
 
 [Pitch Deck (PDF)](/pdf/autum.pdf)
 
