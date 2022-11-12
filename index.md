@@ -1,7 +1,6 @@
 ## My Apps
 
----
-[Favely - Social Media Game (2023)](/sample_page)
+### Favely - Social Media Game (2023)
 
 [Pitch Deck (PDF)](/pdf/favely.pdf)
 
@@ -14,7 +13,7 @@
 </p>
 
 ---
-[Autum - Dating App (2022)](/sample_page)
+### Autum - Dating App (2022)
 
 [Pitch Deck (PDF)](/pdf/autum.pdf)
 
@@ -33,7 +32,7 @@
 </p>
 
 ---
-[RedPine - Concert Venue Booking, Live Shows, Ticketing, Analytics, ... (2016)](/sample_page)
+### RedPine - Concert Venue Booking, Live Shows, Ticketing, Analytics, ... (2016)
 
 [Pitch Deck (PDF)](/pdf/redpine.pdf)
 
