@@ -1,7 +1,7 @@
-## Portfolio
+## My Apps
 
 ---
-[Favely - Social Media Game](/sample_page)
+[Favely - Social Media Game (2023)](/sample_page)
 
 [Pitch Deck (PDF)](/pdf/sample_presentation.pdf)
 <p float="left">
@@ -11,7 +11,7 @@
 </p>
 
 ---
-[Autum - Dating App](/sample_page)
+[Autum - Dating App (2022)](/sample_page)
 
 [Pitch Deck (PDF)](/pdf/sample_presentation.pdf)
 <p float="left">
@@ -21,7 +21,7 @@
 </p>
 
 ---
-[RedPine - Concert Venue Booking, Live Shows, Ticketing, Analytics, ...](/sample_page)
+[RedPine - Concert Venue Booking, Live Shows, Ticketing, Analytics, ... (2016)](/sample_page)
 
 [Pitch Deck (PDF)](/pdf/sample_presentation.pdf)
 <p float="left">
