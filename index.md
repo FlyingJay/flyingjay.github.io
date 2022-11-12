@@ -1,4 +1,4 @@
-## My Apps
+## My Projects
 
 ### Favely - Social Media Game (2023)
 
@@ -13,7 +13,7 @@
 </p>
 
 ---
-### Autum - Dating App (2022)
+### Autum - Dating (2022)
 
 [Pitch Deck (PDF)](/pdf/autum.pdf)
 
