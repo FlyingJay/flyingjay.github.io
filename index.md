@@ -33,11 +33,11 @@
 
 [Product Walkthrough (PDF)](/pdf/redpine_royal_mountain.pdf)
 <p float="left">
-  <img src="/images/redpine_home.png" width="100" />
-  <img src="/images/redpine_band.png" width="100" /> 
-  <img src="/images/redpine_venue.png" width="100" />
-  <img src="/images/redpine_shows.png" width="100" />
+  <img src="/images/redpine_home.png" width="125" />
+  <img src="/images/redpine_band.png" width="125" /> 
+  <img src="/images/redpine_venue.png" width="125" />
+  <img src="/images/redpine_shows.png" width="125" />
 </p>
-<img src="/images/redpine_hub.png" width="400" />
+<img src="/images/redpine_hub.png" width="500" />
 
 
