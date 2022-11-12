@@ -2,31 +2,22 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+### Apps
+[Favely - Social Media Game](/sample_page)
+[Pitch Deck](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Autum - Dating App](/sample_page)
+[Pitch Deck](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[RedPine - Concert Venue Booking+++](/sample_page)
+[Pitch Deck](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
 
 
 
