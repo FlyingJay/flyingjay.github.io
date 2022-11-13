@@ -32,9 +32,11 @@
 
 [Product Walkthrough (PDF)](/pdf/redpine_royal_mountain.pdf)
 
-[GitHub - React App](https://github.com/FlyingJay/redpine)
+[GitHub - React Web-app](https://github.com/FlyingJay/redpine)
 
 [GitHub - Django Server](https://github.com/FlyingJay/redpine-api)
+
+[GitHub - React Native Mobile App](https://github.com/FlyingJay/redpine-mobile)
 
 <p float="left">
   <img src="/images/redpine_home.png" width="125" />
