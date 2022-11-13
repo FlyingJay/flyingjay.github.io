@@ -2,6 +2,5 @@
 
 ### Introduction
 
-Welcome to my portfolio!
-___
+Welcome to my portfolio. [Check it out!](https://flyingjay.github.io)
 
