@@ -39,11 +39,11 @@
 [GitHub - React Native Mobile App](https://github.com/FlyingJay/redpine-mobile)
 
 <p float="left">
-  <img src="/images/redpine_home.png" width="125" />
-  <img src="/images/redpine_band.png" width="125" /> 
-  <img src="/images/redpine_venue.png" width="125" />
-  <img src="/images/redpine_shows.png" width="125" />
+  <img src="/images/redpine_home.png" width="120" />
+  <img src="/images/redpine_band.png" width="120" /> 
+  <img src="/images/redpine_venue.png" width="120" />
+  <img src="/images/redpine_shows.png" width="120" />
 </p>
-<img src="/images/redpine_hub.png" width="500" />
-<img src="/images/redpine_django.png" width="500" />
+<img src="/images/redpine_hub.png" width="480" />
+<img src="/images/redpine_django.png" width="480" />
 
