@@ -45,5 +45,5 @@
   <img src="/images/redpine_shows.png" width="125" />
 </p>
 <img src="/images/redpine_hub.png" width="500" />
-
+<img src="/images/redpine_django.png" width="500" />
 
