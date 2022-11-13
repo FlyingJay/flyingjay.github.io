@@ -2,7 +2,7 @@
 
 [Pitch Deck (PDF)](/pdf/favely.pdf)
 
-[GitHub - Flutter App](https://github.com/FlyingJay/favely)
+[GitHub (Flutter App)](https://github.com/FlyingJay/favely)
 
 <p float="left">
   <img src="/images/favely_landing.jpg" width="150" />
@@ -15,9 +15,9 @@
 
 [Pitch Deck (PDF)](/pdf/autum.pdf)
 
-[GitHub - Angular/Cordova App](https://github.com/FlyingJay/autum)
+[GitHub (Angular/Cordova App)](https://github.com/FlyingJay/autum)
 
-[GitHub - Django Server](https://github.com/FlyingJay/autum-api)
+[GitHub (Django Server)](https://github.com/FlyingJay/autum-api)
 
 <p float="left">
   <img src="/images/autum_deck.png" width="150" />
@@ -32,11 +32,11 @@
 
 [Product Walkthrough (PDF)](/pdf/redpine_royal_mountain.pdf)
 
-[GitHub - React Web App](https://github.com/FlyingJay/redpine)
+[GitHub (React Web App)](https://github.com/FlyingJay/redpine)
 
-[GitHub - Django Server](https://github.com/FlyingJay/redpine-api)
+[GitHub (Django Server)](https://github.com/FlyingJay/redpine-api)
 
-[GitHub - React Native Mobile App](https://github.com/FlyingJay/redpine-mobile)
+[GitHub (React Native Mobile App)](https://github.com/FlyingJay/redpine-mobile)
 
 <p float="left">
   <img src="/images/redpine_home.png" width="120" />
