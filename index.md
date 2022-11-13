@@ -15,7 +15,7 @@
 
 [Pitch Deck (PDF)](/pdf/autum.pdf)
 
-[GitHub (Angular/Cordova App)](https://github.com/FlyingJay/autum)
+[GitHub (Angular App)](https://github.com/FlyingJay/autum)
 
 [GitHub (Django Server)](https://github.com/FlyingJay/autum-api)
 
